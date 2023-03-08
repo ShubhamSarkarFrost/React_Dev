@@ -3,7 +3,9 @@ import {createBrowserRouter,
  // createRoutesFromElements, 
  //Route
 } from 'react-router-dom'
+import ErrorPage from './pages/Error';
 import HomePage from "./pages/Home";
+import ProductDetailsPage from './pages/ProductDetails';
 import ProductsPage from './pages/Products';
 import RootLyout from './pages/Root';
 
@@ -19,9 +21,11 @@ import RootLyout from './pages/Root';
 const router = createBrowserRouter([
   {path: '/', 
   element:<RootLyout/> , 
+  errorElement: <ErrorPage/>,
   children: [
     {path: '/', element: <HomePage />},
-    {path: '/products', element: <ProductsPage/>}
+    {path: '/products', element: <ProductsPage/>, },
+    {path: '/products/:productId',element: <ProductDetailsPage/>}
   ]},
 ])
 
