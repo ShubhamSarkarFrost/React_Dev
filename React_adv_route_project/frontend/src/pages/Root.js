@@ -1,12 +1,9 @@
-import { Outlet, 
-  //useNavigation 
-} from "react-router-dom";
-import MainNavigation from "../components/MainNavigation";
+import { Outlet, useNavigation } from 'react-router-dom';
 
-function RootLyout() {
+import MainNavigation from '../components/MainNavigation';
 
-//  const navigation = useNavigation();
- 
+function RootLayout() {
+  // const navigation = useNavigation();
 
   return (
     <>
@@ -19,4 +16,4 @@ function RootLyout() {
   );
 }
 
-export default RootLyout;
+export default RootLayout;

@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Birrestto - Music Event","image":"https://billetto.co.uk/blog/wp-content/uploads/2019/06/zhqczjr9fho-e1560853535167-800x440.jpg","date":"2023-08-23","description":"An Awesome Music Event","id":"9eb1dce9-ca4f-40c7-b032-4a5a1213352a"},{"title":"new Opera Event","image":"https://www.metopera.org/globalassets/adage-test-media/galas/special-events-header.jpg","date":"2023-04-13","description":"An Opera Event","id":"314a9241-f675-4e2d-8432-8751626687b4"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
