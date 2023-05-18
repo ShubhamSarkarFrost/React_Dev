@@ -9,23 +9,24 @@ import {
 
 import EventItem from '../components/EventItem';
 import EventsList from '../components/EventsList';
+import { getAuthToken } from '../util/auth';
 
 function EventDetailPage() {
   const { event, events } = useRouteLoaderData('event-detail');
 
   return (
-    <>
-      <Suspense fallback={<p style={{ textAlign: 'center' }}>Loading...</p>}>
-        <Await resolve={event}>
-          {(loadedEvent) => <EventItem event={loadedEvent} />}
-        </Await>
-      </Suspense>
-      <Suspense fallback={<p style={{ textAlign: 'center' }}>Loading...</p>}>
-        <Await resolve={events}>
-          {(loadedEvents) => <EventsList events={loadedEvents} />}
-        </Await>
-      </Suspense>
-    </>
+      <>
+        <Suspense fallback={<p style={{ textAlign: 'center' }}>Loading...</p>}>
+          <Await resolve={event}>
+            {(loadedEvent) => <EventItem event={loadedEvent} />}
+          </Await>
+        </Suspense>
+        <Suspense fallback={<p style={{ textAlign: 'center' }}>Loading...</p>}>
+          <Await resolve={events}>
+            {(loadedEvents) => <EventsList events={loadedEvents} />}
+          </Await>
+        </Suspense>
+      </>
   );
 }
 
@@ -36,10 +37,10 @@ async function loadEvent(id) {
 
   if (!response.ok) {
     throw json(
-      { message: 'Could not fetch details for selected event.' },
-      {
-        status: 500,
-      }
+        { message: 'Could not fetch details for selected event.' },
+        {
+          status: 500,
+        }
     );
   } else {
     const resData = await response.json();
@@ -56,10 +57,10 @@ async function loadEvents() {
     //   status: 500,
     // });
     throw json(
-      { message: 'Could not fetch events.' },
-      {
-        status: 500,
-      }
+        { message: 'Could not fetch events.' },
+        {
+          status: 500,
+        }
     );
   } else {
     const resData = await response.json();
@@ -78,16 +79,21 @@ export async function loader({ request, params }) {
 
 export async function action({ params, request }) {
   const eventId = params.eventId;
+
+  const token = getAuthToken();
   const response = await fetch('http://localhost:8080/events/' + eventId, {
     method: request.method,
+    headers: {
+      'Authorization': 'Bearer ' + token
+    }
   });
 
   if (!response.ok) {
     throw json(
-      { message: 'Could not delete event.' },
-      {
-        status: 500,
-      }
+        { message: 'Could not delete event.' },
+        {
+          status: 500,
+        }
     );
   }
   return redirect('/events');

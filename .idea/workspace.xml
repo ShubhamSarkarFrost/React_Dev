@@ -2,56 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/backend/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/backend/data/event.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/backend/data/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/backend/data/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/backend/events.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/backend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/backend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/backend/routes/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/backend/routes/events.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/backend/util/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/backend/util/errors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/backend/util/validation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/AuthForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/AuthForm.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/EventForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/EventForm.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/EventItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/EventItem.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/EventsList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/EventsList.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/EventsNavigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/EventsNavigation.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/MainNavigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/MainNavigation.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/NewsletterSignup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/NewsletterSignup.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/PageContent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/PageContent.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/Authentication.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/EditEvent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/Error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/EventDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/Events.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/EventsRoot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/NewEvent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/Newsletter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/Root.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/util/auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/backend/events.json" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/backend/events.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/AuthForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/AuthForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/EventForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/EventForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/MainNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/MainNavigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/Authentication.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/Authentication.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/EventDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/EventDetail.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +79,8 @@
       <workItem from="1684081161797" duration="680000" />
       <workItem from="1684252079203" duration="1257000" />
       <workItem from="1684253840248" duration="904000" />
-      <workItem from="1684255710581" duration="840000" />
+      <workItem from="1684255710581" duration="1096000" />
+      <workItem from="1684423535821" duration="3849000" />
     </task>
     <task id="LOCAL-00001" summary="ReactDev-advanced-redux-project-project-ninteen-Complete-08:18_PM_IST_07_MAR_2023">
       <created>1678200572853</created>
@@ -136,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684253347474</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="React_Dev_Authentication_Project_commit_one_10:36_PM_16_05_2023">
+      <created>1684256797011</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684256797011</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +125,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ReactDev-advanced-redux-project-project-ninteen-Complete-08:18_PM_IST_07_MAR_2023" />
     <MESSAGE value="React_DEV_Multi_SPA_16_05_2023_9:38_PM_IST_commit_one" />
-    <option name="LAST_COMMIT_MESSAGE" value="React_DEV_Multi_SPA_16_05_2023_9:38_PM_IST_commit_one" />
+    <MESSAGE value="React_Dev_Authentication_Project_commit_one_10:36_PM_16_05_2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="React_Dev_Authentication_Project_commit_one_10:36_PM_16_05_2023" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
