@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/util/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/Logout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/backend/events.json" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/backend/events.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/AuthForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/AuthForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/EventForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/EventForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/EventItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/EventItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/EventsNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/EventsNavigation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/MainNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/components/MainNavigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/Authentication.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/Authentication.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/EventDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/EventDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/Root.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/pages/Root.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/util/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Authentication_Full_Project/frontend/src/util/auth.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,27 +44,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.standard" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.standard" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="" />
-    <property name="node.js.selected.package.standard" value="" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -81,6 +69,8 @@
       <workItem from="1684253840248" duration="904000" />
       <workItem from="1684255710581" duration="1096000" />
       <workItem from="1684423535821" duration="3849000" />
+      <workItem from="1686493172770" duration="4197000" />
+      <workItem from="1686502728002" duration="222000" />
     </task>
     <task id="LOCAL-00001" summary="ReactDev-advanced-redux-project-project-ninteen-Complete-08:18_PM_IST_07_MAR_2023">
       <created>1678200572853</created>
@@ -119,7 +109,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
