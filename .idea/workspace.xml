@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/React-nextjs/FAQ.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-nextjs/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-nextjs/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-nextjs/pages/_app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-nextjs/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-nextjs/pages/news.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-nextjs/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-nextjs/public/vercel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-nextjs/styles/Home.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-nextjs/styles/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-nextjs/pages/news/[newsId].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-nextjs/pages/news/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/FAQ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/[meetupid]/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/new-meetup/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-nextjs/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/React-nextjs/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-nextjs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/React-nextjs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-nextjs/pages/news.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/React_Different_Approach_Big_Application" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ronnie\WebstormProjects\React_Dev\React_Different_Approach_Big_Application" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
