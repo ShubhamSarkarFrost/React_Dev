@@ -2,16 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/React-nextjs/pages/news/[newsId].js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-nextjs/pages/news/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/FAQ.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/[meetupid]/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/new-meetup/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React-nextjs/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/React-nextjs/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React-nextjs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/React-nextjs/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React-nextjs/pages/news.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/components/layout/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/components/layout/Layout.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/components/layout/MainNavigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/components/layout/MainNavigation.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/components/meetups/MeetupItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/components/meetups/MeetupItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/components/meetups/MeetupList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/components/meetups/MeetupList.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/components/meetups/NewMeetupForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/components/meetups/NewMeetupForm.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/components/ui/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/components/ui/Card.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/new-meetup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/public/vercel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
