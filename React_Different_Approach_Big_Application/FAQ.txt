@@ -1,1 +1,0 @@
-To run the dev server for Next Js Project - npm run dev
