@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="React_Dev_NextJS+NewProject-Upto-MongoDB_Integration_10_08:35_PM_26_06_2023">
-      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/Mongo-Details" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/api/new-meetup.js" afterDir="false" />
+    <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="React_Dev_NextJS+NewProject-Upto-MongoDB_Integration_completed_01_11_15:35_PM_26_06_2023">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React_Different_Approach_Big_Application/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React_Different_Approach_Big_Application/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Different_Approach_Big_Application/Mongo-Details" beforeDir="false" afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/Mongo-Details" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/api/new-meetup.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/api/new-meetup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/new-meetup/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/new-meetup/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +72,7 @@
       <workItem from="1686493172770" duration="4197000" />
       <workItem from="1686502728002" duration="222000" />
       <workItem from="1687619193173" duration="4786000" />
+      <workItem from="1687878693842" duration="3465000" />
     </task>
     <task id="LOCAL-00001" summary="ReactDev-advanced-redux-project-project-ninteen-Complete-08:18_PM_IST_07_MAR_2023">
       <created>1678200572853</created>
@@ -110,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687799339859</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="React_Dev_NextJS+NewProject-Upto-MongoDB_Integration_completed_01_11_15:35_PM_26_06_2023">
+      <created>1687801448342</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687801448342</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +142,8 @@
     <MESSAGE value="React_Dev_NextJS+NewProject:00_PM_21_06_2023" />
     <MESSAGE value="React_Dev_NextJS+NewProject:07_44:35_PM_26_06_2023" />
     <MESSAGE value="React_Dev_NextJS+NewProject-Upto-MongoDB_Integration_10_08:35_PM_26_06_2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="React_Dev_NextJS+NewProject-Upto-MongoDB_Integration_10_08:35_PM_26_06_2023" />
+    <MESSAGE value="React_Dev_NextJS+NewProject-Upto-MongoDB_Integration_completed_01_11_15:35_PM_26_06_2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="React_Dev_NextJS+NewProject-Upto-MongoDB_Integration_completed_01_11_15:35_PM_26_06_2023" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
