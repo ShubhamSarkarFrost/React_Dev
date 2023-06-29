@@ -1,14 +1,21 @@
-//our-domain.com/new-mmetup
-import NewMeetupForm from "../../components/meetups/NewMeetupForm";
-
+// our-domain.com/new-meetup
+import NewMeetupForm from '../../components/meetups/NewMeetupForm';
 
 function NewMeetupPage() {
-    function addMeetupHandler(enteredMeetupData){
-        console.log(enteredMeetupData);
-    }
+ async function addMeetupHandler(enteredMeetupData) {
+   const response =  await fetch('/api/new-meetup', {
+      method: 'POST',
+      body: JSON.stringify(enteredMeetupData),
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    });
 
-    return <NewMeetupForm onAddMeetup={addMeetupHandler}/>
+    const data = await response.json();
+    console.log(data)
+  }
+
+  return <NewMeetupForm onAddMeetup={addMeetupHandler} />
 }
 
 export default NewMeetupPage;
-
