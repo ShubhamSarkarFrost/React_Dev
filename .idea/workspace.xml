@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="React_Dev_NextJS+NewProject:00_PM_21_06_2023">
-      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/components/meetups/MeetUpDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/components/meetups/MeetupDetail.module.css" afterDir="false" />
+    <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/[meetupid]/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Different_Approach_Big_Application/pages/[meetupid]/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/React_Different_Approach_Big_Application" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -71,7 +68,8 @@
       <workItem from="1684423535821" duration="3849000" />
       <workItem from="1686493172770" duration="4197000" />
       <workItem from="1686502728002" duration="222000" />
-      <workItem from="1687619193173" duration="4786000" />
+      <workItem from="1687619193173" duration="5262000" />
+      <workItem from="1688034768949" duration="250000" />
     </task>
     <task id="LOCAL-00001" summary="ReactDev-advanced-redux-project-project-ninteen-Complete-08:18_PM_IST_07_MAR_2023">
       <created>1678200572853</created>
@@ -101,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687367664908</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="React_Dev_NextJS+NewProject_11:33_PM_21_06_2023">
+      <created>1687629829832</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687629829832</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +130,8 @@
     <MESSAGE value="React_DEV_Multi_SPA_16_05_2023_9:38_PM_IST_commit_one" />
     <MESSAGE value="React_Dev_Authentication_Project_commit_one_10:36_PM_16_05_2023" />
     <MESSAGE value="React_Dev_NextJS+NewProject:00_PM_21_06_2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="React_Dev_NextJS+NewProject:00_PM_21_06_2023" />
+    <MESSAGE value="React_Dev_NextJS+NewProject_11:33_PM_21_06_2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="React_Dev_NextJS+NewProject_11:33_PM_21_06_2023" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
