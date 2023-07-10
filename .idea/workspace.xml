@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="React_Dev_NextJS+NewProject-Commit_#0003_08_07:35_PM">
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/src/components/Backdrop/Backdrop.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/src/components/Backdrop/Backdrop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/src/components/List/List.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/src/components/List/List.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/src/components/Modal/Modal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/src/components/Modal/Modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_animations_Project/src/registerServiceWorker.js" afterDir="false" />
+    <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="React_Dev_CSS_TRANSITION_GROUP-Commit_#0001_09_07_2023 01:35_PM_IST">
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/how-to-use.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/components/Favorites/FavoriteItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/components/Favorites/FavoriteItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/components/Nav/Navigation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/components/Nav/Navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/components/Products/ProductItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/components/Products/ProductItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/components/UI/Card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/components/UI/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/containers/Favorites.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/containers/Products.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/containers/Products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/context/products-context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/hooks-store/products-store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/hooks-store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/store/actions/products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Replace_Redux_with_Hooks/src/store/reducers/products.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +100,9 @@
       <workItem from="1687878693842" duration="3465000" />
       <workItem from="1688038426809" duration="3816000" />
       <workItem from="1688045546187" duration="617000" />
-      <workItem from="1688876716556" duration="8468000" />
+      <workItem from="1688876716556" duration="8984000" />
+      <workItem from="1689000487667" duration="3423000" />
+      <workItem from="1689005468896" duration="3645000" />
     </task>
     <task id="LOCAL-00001" summary="ReactDev-advanced-redux-project-project-ninteen-Complete-08:18_PM_IST_07_MAR_2023">
       <created>1678200572853</created>
@@ -137,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687801448342</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="React_Dev_CSS_TRANSITION_GROUP-Commit_#0001_09_07_2023 01:35_PM_IST">
+      <created>1688889884839</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688889884839</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +181,8 @@
     <MESSAGE value="React_Dev_NextJS+NewProject-Upto-MongoDB_Integration_10_08:35_PM_26_06_2023" />
     <MESSAGE value="React_Dev_NextJS+NewProject-Upto-MongoDB_Integration_completed_01_11_15:35_PM_26_06_2023" />
     <MESSAGE value="React_Dev_NextJS+NewProject-Commit_#0003_08_07:35_PM" />
-    <option name="LAST_COMMIT_MESSAGE" value="React_Dev_NextJS+NewProject-Commit_#0003_08_07:35_PM" />
+    <MESSAGE value="React_Dev_CSS_TRANSITION_GROUP-Commit_#0001_09_07_2023 01:35_PM_IST" />
+    <option name="LAST_COMMIT_MESSAGE" value="React_Dev_CSS_TRANSITION_GROUP-Commit_#0001_09_07_2023 01:35_PM_IST" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
