@@ -1,45 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="React_Dev_REACT_REPLACE_REDUX_WITH_HOOKS_10_07_2023 11:20_PM_IST">
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/.eslintrc.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/backend/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/backend/data/events.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/backend/data/images.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/backend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/backend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/backend/public/buzzing-city.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/backend/public/laptop-on-desk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/backend/public/meeting-networking.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/backend/public/park.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/backend/public/women-coding.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/public/events-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/assets/events-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/assets/meetup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/EditEvent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/EventDetails.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/EventForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/EventItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/Events.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/EventsIntroSection.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/FindEventSection.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/NewEvent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/NewEventsSection.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/ImagePicker.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/UI/ErrorBlock.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/UI/LoadingIndicator.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/UI/Modal.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/util/http.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_tanstack_query_project/vite.config.js" afterDir="false" />
+    <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="React_Dev_REACT_TANSTACK_QUERY_12_09_2023 09:43_PM_IST">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/FindEventSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/FindEventSection.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/NewEventsSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/NewEventsSection.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_tanstack_query_project/src/util/http.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/util/http.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +82,8 @@
       <workItem from="1689005468896" duration="3645000" />
       <workItem from="1689009758565" duration="190000" />
       <workItem from="1689515560015" duration="35000" />
-      <workItem from="1694533605478" duration="3146000" />
+      <workItem from="1694533605478" duration="3504000" />
+      <workItem from="1694708511410" duration="2610000" />
     </task>
     <task id="LOCAL-00001" summary="ReactDev-advanced-redux-project-project-ninteen-Complete-08:18_PM_IST_07_MAR_2023">
       <created>1678200572853</created>
@@ -174,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689009929729</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="React_Dev_REACT_TANSTACK_QUERY_12_09_2023 09:43_PM_IST">
+      <created>1694537057721</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694537057721</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +178,8 @@
     <MESSAGE value="React_Dev_NextJS+NewProject-Commit_#0003_08_07:35_PM" />
     <MESSAGE value="React_Dev_CSS_TRANSITION_GROUP-Commit_#0001_09_07_2023 01:35_PM_IST" />
     <MESSAGE value="React_Dev_REACT_REPLACE_REDUX_WITH_HOOKS_10_07_2023 11:20_PM_IST" />
-    <option name="LAST_COMMIT_MESSAGE" value="React_Dev_REACT_REPLACE_REDUX_WITH_HOOKS_10_07_2023 11:20_PM_IST" />
+    <MESSAGE value="React_Dev_REACT_TANSTACK_QUERY_12_09_2023 09:43_PM_IST" />
+    <option name="LAST_COMMIT_MESSAGE" value="React_Dev_REACT_TANSTACK_QUERY_12_09_2023 09:43_PM_IST" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
