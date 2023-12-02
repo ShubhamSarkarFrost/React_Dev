@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="React_Dev_REACT_TANSTACK_QUERY_14_09_2023_10:43_PM_IST">
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/public/quiz-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/assets/quiz-complete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/assets/quiz-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/QuestionTimer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/Quiz.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/questions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/vite.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_tanstack_query_project/backend/data/events.json" beforeDir="false" afterPath="$PROJECT_DIR$/react_tanstack_query_project/backend/data/events.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_tanstack_query_project/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/EventForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/EventForm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/NewEvent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/components/Events/NewEvent.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_tanstack_query_project/src/util/http.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_tanstack_query_project/src/util/http.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,18 +57,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/react_Quiz_Project/src" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ronnie\WebstormProjects\React_Dev\react_Quiz_Project\src" />
       <recent name="C:\Users\Ronnie\WebstormProjects\React_Dev\React_Different_Approach_Big_Application" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="" />
@@ -87,6 +101,11 @@
       <workItem from="1694533605478" duration="3504000" />
       <workItem from="1694708511410" duration="2775000" />
       <workItem from="1694881590469" duration="4939000" />
+      <workItem from="1701447767723" duration="593000" />
+      <workItem from="1701532962136" duration="1453000" />
+      <workItem from="1701535273408" duration="81000" />
+      <workItem from="1701535372866" duration="260000" />
+      <workItem from="1701535663473" duration="3414000" />
     </task>
     <task id="LOCAL-00001" summary="ReactDev-advanced-redux-project-project-ninteen-Complete-08:18_PM_IST_07_MAR_2023">
       <created>1678200572853</created>
@@ -162,19 +181,20 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -191,6 +211,12 @@
     <MESSAGE value="React_Dev_REACT_TANSTACK_QUERY_12_09_2023 09:43_PM_IST" />
     <MESSAGE value="React_Dev_REACT_TANSTACK_QUERY_14_09_2023_10:43_PM_IST" />
     <option name="LAST_COMMIT_MESSAGE" value="React_Dev_REACT_TANSTACK_QUERY_14_09_2023_10:43_PM_IST" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="3" key="SettingsEditor" timestamp="1701536385533">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="184" y="3" key="SettingsEditor/0.0.1366.720@0.0.1366.720" timestamp="1701536385533" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
