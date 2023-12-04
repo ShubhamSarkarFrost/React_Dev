@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="React_Dev_REACT_TANSTACK_QUERY_14_09_2023_10:43_PM_IST">
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/public/quiz-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/assets/quiz-complete.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/assets/quiz-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/QuestionTimer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/Quiz.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/questions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/vite.config.js" afterDir="false" />
+    <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/assets/components.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/assets/config.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/assets/jsx-ui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/assets/react-core-concepts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/assets/state-mgmt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/Answers.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/Question.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/Summary.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_Quiz_Project/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_Quiz_Project/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_Quiz_Project/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_Quiz_Project/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_Quiz_Project/src/components/QuestionTimer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/QuestionTimer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_Quiz_Project/src/components/Quiz.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/Quiz.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +75,7 @@
       <recent name="C:\Users\Ronnie\WebstormProjects\React_Dev\React_Different_Approach_Big_Application" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -105,7 +111,9 @@
       <workItem from="1701532962136" duration="1453000" />
       <workItem from="1701535273408" duration="81000" />
       <workItem from="1701535372866" duration="260000" />
-      <workItem from="1701535663473" duration="3414000" />
+      <workItem from="1701535663473" duration="3549000" />
+      <workItem from="1701584171258" duration="4337000" />
+      <workItem from="1701705564058" duration="4053000" />
     </task>
     <task id="LOCAL-00001" summary="ReactDev-advanced-redux-project-project-ninteen-Complete-08:18_PM_IST_07_MAR_2023">
       <created>1678200572853</created>
@@ -177,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694711330256</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="React_Dev_REACT_Quiz_Project_2_12_2023_11:13_PM_IST">
+      <created>1701540014710</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701540014710</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,13 +225,22 @@
     <MESSAGE value="React_Dev_REACT_REPLACE_REDUX_WITH_HOOKS_10_07_2023 11:20_PM_IST" />
     <MESSAGE value="React_Dev_REACT_TANSTACK_QUERY_12_09_2023 09:43_PM_IST" />
     <MESSAGE value="React_Dev_REACT_TANSTACK_QUERY_14_09_2023_10:43_PM_IST" />
-    <option name="LAST_COMMIT_MESSAGE" value="React_Dev_REACT_TANSTACK_QUERY_14_09_2023_10:43_PM_IST" />
+    <MESSAGE value="React_Dev_REACT_Quiz_Project_2_12_2023_11:13_PM_IST" />
+    <option name="LAST_COMMIT_MESSAGE" value="React_Dev_REACT_Quiz_Project_2_12_2023_11:13_PM_IST" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1701540010708">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1701540010708" />
     <state x="184" y="3" key="SettingsEditor" timestamp="1701536385533">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="184" y="3" key="SettingsEditor/0.0.1366.720@0.0.1366.720" timestamp="1701536385533" />
+    <state x="275" y="81" key="Vcs.Push.Dialog.v2" timestamp="1701540020518">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="275" y="81" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1701540020518" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
