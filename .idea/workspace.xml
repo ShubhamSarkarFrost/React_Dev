@@ -2,28 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/assets/components.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/assets/config.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/assets/jsx-ui.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/assets/react-core-concepts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/assets/state-mgmt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/vite.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/Answers.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/Question.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/Summary.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/components/CoreConcepts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/components/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/components/TabButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_Quiz_Project/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_Quiz_Project/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_Quiz_Project/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_Quiz_Project/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_Quiz_Project/src/components/QuestionTimer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/QuestionTimer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_Quiz_Project/src/components/Quiz.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_Quiz_Project/src/components/Quiz.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Essentials_01/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React_Essentials_01/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Essentials_01/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/React_Essentials_01/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -66,7 +52,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/react_Quiz_Project/src" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -113,7 +99,12 @@
       <workItem from="1701535372866" duration="260000" />
       <workItem from="1701535663473" duration="3549000" />
       <workItem from="1701584171258" duration="4337000" />
-      <workItem from="1701705564058" duration="4053000" />
+      <workItem from="1701705564058" duration="4124000" />
+      <workItem from="1702049472044" duration="486000" />
+      <workItem from="1702050059374" duration="787000" />
+      <workItem from="1702050973664" duration="2222000" />
+      <workItem from="1702102286994" duration="3774000" />
+      <workItem from="1702128083868" duration="7409000" />
     </task>
     <task id="LOCAL-00001" summary="ReactDev-advanced-redux-project-project-ninteen-Complete-08:18_PM_IST_07_MAR_2023">
       <created>1678200572853</created>
@@ -192,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701540014710</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="React_Dev_REACT_Quiz_Project_Complete_4_12_2023_11:13_PM_IST">
+      <created>1701710443698</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701710443698</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,21 +224,22 @@
     <MESSAGE value="React_Dev_REACT_TANSTACK_QUERY_12_09_2023 09:43_PM_IST" />
     <MESSAGE value="React_Dev_REACT_TANSTACK_QUERY_14_09_2023_10:43_PM_IST" />
     <MESSAGE value="React_Dev_REACT_Quiz_Project_2_12_2023_11:13_PM_IST" />
-    <option name="LAST_COMMIT_MESSAGE" value="React_Dev_REACT_Quiz_Project_2_12_2023_11:13_PM_IST" />
+    <MESSAGE value="React_Dev_REACT_Quiz_Project_Complete_4_12_2023_11:13_PM_IST" />
+    <option name="LAST_COMMIT_MESSAGE" value="React_Dev_REACT_Quiz_Project_Complete_4_12_2023_11:13_PM_IST" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1701540010708">
+    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1701710439071">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1701540010708" />
-    <state x="184" y="3" key="SettingsEditor" timestamp="1701536385533">
+    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1701710439071" />
+    <state x="184" y="3" key="SettingsEditor" timestamp="1702108550143">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="184" y="3" key="SettingsEditor/0.0.1366.720@0.0.1366.720" timestamp="1701536385533" />
-    <state x="275" y="81" key="Vcs.Push.Dialog.v2" timestamp="1701540020518">
+    <state x="184" y="3" key="SettingsEditor/0.0.1366.720@0.0.1366.720" timestamp="1702108550143" />
+    <state x="275" y="81" key="Vcs.Push.Dialog.v2" timestamp="1701710451279">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="275" y="81" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1701540020518" />
+    <state x="275" y="81" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1701710451279" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
