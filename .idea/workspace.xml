@@ -2,14 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/components/CoreConcepts.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/components/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/components/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/components/TabButton.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/components/CoreConcept.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/components/Header/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_01/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/src/assets/components.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/src/assets/config.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/src/assets/jsx-ui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/src/assets/react-core-concepts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/src/assets/state-mgmt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/src/components/CoreConcept.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/src/components/CoreConcepts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/src/components/Example.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/src/components/Header/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/src/components/Section.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/src/components/TabButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/src/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Essentials_Deep_Dive_02/vite.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Essentials_01/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/React_Essentials_01/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Essentials_01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/React_Essentials_01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Essentials_01/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/React_Essentials_01/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Essentials_01/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/React_Essentials_01/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/React_Essentials_01/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React_Essentials_01/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Essentials_01/src/components/CoreConcepts.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Essentials_01/src/components/Header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Essentials_01/src/components/Header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Essentials_01/src/components/TabButton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React_Essentials_01/src/components/TabButton.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Essentials_01/src/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Essentials_01/src/data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/React_Essentials_01/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/React_Essentials_01/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Essentials_01/src/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React_Essentials_01/src/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Essentials_01/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Essentials_01/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +78,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/react_Quiz_Project/src" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -105,6 +135,11 @@
       <workItem from="1702050973664" duration="2222000" />
       <workItem from="1702102286994" duration="3774000" />
       <workItem from="1702128083868" duration="7409000" />
+      <workItem from="1702397631607" duration="2551000" />
+      <workItem from="1702489224115" duration="1389000" />
+      <workItem from="1702649311824" duration="487000" />
+      <workItem from="1702649853638" duration="2995000" />
+      <workItem from="1702656743425" duration="1135000" />
     </task>
     <task id="LOCAL-00001" summary="ReactDev-advanced-redux-project-project-ninteen-Complete-08:18_PM_IST_07_MAR_2023">
       <created>1678200572853</created>
@@ -232,14 +267,19 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1701710439071" />
-    <state x="184" y="3" key="SettingsEditor" timestamp="1702108550143">
-      <screen x="0" y="0" width="1366" height="720" />
+    <state x="207" y="33" key="SettingsEditor" timestamp="1702649905877">
+      <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="184" y="3" key="SettingsEditor/0.0.1366.720@0.0.1366.720" timestamp="1702108550143" />
+    <state x="207" y="33" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1702649905877" />
     <state x="275" y="81" key="Vcs.Push.Dialog.v2" timestamp="1701710451279">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="275" y="81" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1701710451279" />
+    <state x="466" y="238" key="git4idea.merge.GitPullDialog" timestamp="1702650092646">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="466" y="238" key="git4idea.merge.GitPullDialog/0.30.1536.834@0.30.1536.834" timestamp="1702650092646" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
