@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import TabButton from "./TabButton.jsx";
+import Tabs from "./Tabs.jsx"
 import { Section } from "./Section.jsx";
 import {EXAMPLES} from "../data.js";
 
@@ -27,33 +28,30 @@ export default function Example() {
 
     return (
         <Section title="Examples" id="examples">
-            <menu>
-                <TabButton
-                    isSelected={selectedTopic === 'components'}
-                    onClick={() => handleSelect('components')}
+            <Tabs  ButtonsContainer="menu" buttons ={<><TabButton
+                isSelected={selectedTopic === 'components'}
+                onClick={() => handleSelect('components')}
+            >
+                Components
+            </TabButton>
+            <TabButton
+                isSelected={selectedTopic === 'jsx'}
+                onClick={() => handleSelect('jsx')}
                 >
-                    Components
+                JSX
                 </TabButton>
                 <TabButton
-                    isSelected={selectedTopic === 'jsx'}
-                    onClick={() => handleSelect('jsx')}
+                isSelected={selectedTopic === 'props'}
+                onClick={() => handleSelect('props')}
                 >
-                    JSX
+                Props
                 </TabButton>
                 <TabButton
-                    isSelected={selectedTopic === 'props'}
-                    onClick={() => handleSelect('props')}
+                isSelected={selectedTopic === 'state'}
+                onClick={() => handleSelect('state')}
                 >
-                    Props
-                </TabButton>
-                <TabButton
-                    isSelected={selectedTopic === 'state'}
-                    onClick={() => handleSelect('state')}
-                >
-                    State
-                </TabButton>
-            </menu>
-            {tabContent}
+                State
+                </TabButton></>}>{tabContent}</Tabs>
         </Section>
     );
 }
