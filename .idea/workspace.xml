@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/public/bg-pattern-dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/public/bg-pattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/public/game-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/assets/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/components/GameBoard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/components/Player.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/components/log.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/components/GameBoard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/components/GameBoard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/components/Player.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/components/Player.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
