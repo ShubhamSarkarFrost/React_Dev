@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/components/log.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-investment-starting-project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-investment-starting-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-investment-starting-project/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-investment-starting-project/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-investment-starting-project/public/investment-calculator-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-investment-starting-project/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-investment-starting-project/src/assets/investment-calculator-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-investment-starting-project/src/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-investment-starting-project/src/components/Results.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-investment-starting-project/src/components/UserInput.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-investment-starting-project/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-investment-starting-project/src/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-investment-starting-project/src/util/investment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-investment-starting-project/vite.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/components/GameBoard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/components/GameBoard.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/components/Player.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-tic-tac-toe-starting-project/src/components/Player.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +60,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/react_Quiz_Project/src" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\WebstormProjects\React_Dev\react-investment-starting-project\src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ronnie\WebstormProjects\React_Dev\react_Quiz_Project\src" />
       <recent name="C:\Users\Ronnie\WebstormProjects\React_Dev\React_Different_Approach_Big_Application" />
@@ -110,6 +123,7 @@
       <workItem from="1702656743425" duration="1205000" />
       <workItem from="1702715883068" duration="2122000" />
       <workItem from="1702742461350" duration="5513000" />
+      <workItem from="1703695923081" duration="4051000" />
     </task>
     <task id="LOCAL-00001" summary="ReactDev-advanced-redux-project-project-ninteen-Complete-08:18_PM_IST_07_MAR_2023">
       <created>1678200572853</created>
@@ -254,20 +268,20 @@
     </state>
     <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1701710439071" />
     <state x="344" y="30" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1702748692943" />
-    <state x="207" y="33" key="SettingsEditor" timestamp="1702649905877">
+    <state x="207" y="33" key="SettingsEditor" timestamp="1703696793343">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="184" y="3" key="SettingsEditor/0.0.1366.720@0.0.1366.720" timestamp="1702108550143" />
-    <state x="207" y="33" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1702649905877" />
+    <state x="207" y="33" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1703696793343" />
     <state x="309" y="124" key="Vcs.Push.Dialog.v2" timestamp="1702717996545">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="275" y="81" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1701710451279" />
     <state x="309" y="124" key="Vcs.Push.Dialog.v2/0.30.1536.834@0.30.1536.834" timestamp="1702717996545" />
-    <state x="466" y="238" key="git4idea.merge.GitPullDialog" timestamp="1702650092646">
+    <state x="466" y="238" key="git4idea.merge.GitPullDialog" timestamp="1703690730570">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="466" y="238" key="git4idea.merge.GitPullDialog/0.30.1536.834@0.30.1536.834" timestamp="1702650092646" />
+    <state x="466" y="238" key="git4idea.merge.GitPullDialog/0.30.1536.834@0.30.1536.834" timestamp="1703690730570" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
