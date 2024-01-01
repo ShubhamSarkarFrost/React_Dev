@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/react-styling-project-updated/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-styling-project-updated/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-styling-project-updated/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-styling-project-updated/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-styling-project-updated/public/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-styling-project-updated/public/vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-styling-project-updated/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-styling-project-updated/src/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-styling-project-updated/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-styling-project-updated/src/components/AuthInputs.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-styling-project-updated/src/components/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-styling-project-updated/src/components/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-styling-project-updated/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-styling-project-updated/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-styling-project-updated/vite.config.js" afterDir="false" />
+    <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="React_Dev_REACT_TIC-TAC-TOE_Project_Complete_27_12_2023_11:39_PM_IST">
+      <change afterPath="$PROJECT_DIR$/React-refs-portals-starting-project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-refs-portals-starting-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-refs-portals-starting-project/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-refs-portals-starting-project/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-refs-portals-starting-project/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-refs-portals-starting-project/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-refs-portals-starting-project/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-refs-portals-starting-project/src/components/Player.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-refs-portals-starting-project/src/components/TimerChallenge.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-refs-portals-starting-project/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-refs-portals-starting-project/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-refs-portals-starting-project/vite.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +58,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/react-styling-project-updated/src/components" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -127,6 +124,8 @@
       <workItem from="1702742461350" duration="5513000" />
       <workItem from="1703695923081" duration="4491000" />
       <workItem from="1703771323187" duration="5092000" />
+      <workItem from="1704042823873" duration="3650000" />
+      <workItem from="1704088560495" duration="3469000" />
     </task>
     <task id="LOCAL-00001" summary="ReactDev-advanced-redux-project-project-ninteen-Complete-08:18_PM_IST_07_MAR_2023">
       <created>1678200572853</created>
@@ -282,15 +281,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="React_Dev_REACT_TIC-TAC-TOE_Project_Complete_27_12_2023_11:39_PM_IST" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="344" y="30" key="CommitChangelistDialog2" timestamp="1703777401220">
-      <screen x="0" y="30" width="1536" height="834" />
+    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1704096710359">
+      <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1701710439071" />
+    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1704096710359" />
     <state x="344" y="30" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1703777401220" />
-    <state x="207" y="33" key="SettingsEditor" timestamp="1703773491436">
-      <screen x="0" y="30" width="1536" height="834" />
+    <state x="184" y="3" key="SettingsEditor" timestamp="1704096833333">
+      <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="184" y="3" key="SettingsEditor/0.0.1366.720@0.0.1366.720" timestamp="1702108550143" />
+    <state x="184" y="3" key="SettingsEditor/0.0.1366.720@0.0.1366.720" timestamp="1704096833333" />
     <state x="207" y="33" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1703773491436" />
     <state x="309" y="124" key="Vcs.Push.Dialog.v2" timestamp="1703700604932">
       <screen x="0" y="30" width="1536" height="834" />
