@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/React-refs-portals-starting-project/src/components/ResultModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/public/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/assets/no-projects.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/Buttons.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/Input.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/NewProject.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/NoProjectSelected.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/ProjectsSidebar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/vite.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React-refs-portals-starting-project/src/components/TimerChallenge.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-refs-portals-starting-project/src/components/TimerChallenge.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +76,7 @@
       <recent name="C:\Users\Lenovo\WebstormProjects\React_Dev\react-investment-starting-project\src" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -118,6 +133,7 @@
       <workItem from="1704088560495" duration="3469000" />
       <workItem from="1704096869122" duration="143000" />
       <workItem from="1704118538618" duration="4592000" />
+      <workItem from="1706457733489" duration="5770000" />
     </task>
     <task id="LOCAL-00001" summary="ReactDev-advanced-redux-project-project-ninteen-Complete-08:18_PM_IST_07_MAR_2023">
       <created>1678200572853</created>
@@ -242,20 +258,19 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -279,27 +294,6 @@
     <MESSAGE value="React_Dev_REACT_TIC-TAC-TOE_Project_Complete_27_12_2023_11:39_PM_IST" />
     <MESSAGE value="React_Dev_REACT_REFS_Updated_Complete_01_01_2024_01:39_PM_IST" />
     <option name="LAST_COMMIT_MESSAGE" value="React_Dev_REACT_REFS_Updated_Complete_01_01_2024_01:39_PM_IST" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1704096932748">
-      <screen x="0" y="0" width="1366" height="720" />
-    </state>
-    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1704096932748" />
-    <state x="344" y="30" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1703777401220" />
-    <state x="184" y="3" key="SettingsEditor" timestamp="1704096833333">
-      <screen x="0" y="0" width="1366" height="720" />
-    </state>
-    <state x="184" y="3" key="SettingsEditor/0.0.1366.720@0.0.1366.720" timestamp="1704096833333" />
-    <state x="207" y="33" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1703773491436" />
-    <state x="275" y="81" key="Vcs.Push.Dialog.v2" timestamp="1704096941568">
-      <screen x="0" y="0" width="1366" height="720" />
-    </state>
-    <state x="275" y="81" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1704096941568" />
-    <state x="309" y="124" key="Vcs.Push.Dialog.v2/0.30.1536.834@0.30.1536.834" timestamp="1703700604932" />
-    <state x="466" y="238" key="git4idea.merge.GitPullDialog" timestamp="1703690730570">
-      <screen x="0" y="30" width="1536" height="834" />
-    </state>
-    <state x="466" y="238" key="git4idea.merge.GitPullDialog/0.30.1536.834@0.30.1536.834" timestamp="1703690730570" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
