@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="React_Dev_REACT_REFS_Updated_Complete_01_01_2024_01:39_PM_IST">
-      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/Modal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/SelectedProject.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/Tasks.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-practice-project-starting-project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/react-practice-project-starting-project/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-practice-project-starting-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/react-practice-project-starting-project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-practice-project-starting-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-practice-project-starting-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-practice-project-starting-project/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-practice-project-starting-project/postcss.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-practice-project-starting-project/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/Button.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/Input.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/Input.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/Modal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/Modal.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/NewProject.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/NewProject.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/NoProjectSelected.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/NoProjectSelected.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/ProjectsSidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/components/ProjectsSidebar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-practice-project-starting-project/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-practice-project-starting-project/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-practice-project-starting-project/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-practice-project-starting-project/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-practice-project-starting-project/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-practice-project-starting-project/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-practice-project-starting-project/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +63,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/react-styling-project-updated/src/components" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -124,6 +136,8 @@
       <workItem from="1706457733489" duration="5770000" />
       <workItem from="1706631133574" duration="203000" />
       <workItem from="1706631384395" duration="4053000" />
+      <workItem from="1706801509041" duration="3527000" />
+      <workItem from="1706805558938" duration="1273000" />
     </task>
     <task id="LOCAL-00001" summary="ReactDev-advanced-redux-project-project-ninteen-Complete-08:18_PM_IST_07_MAR_2023">
       <created>1678200572853</created>
