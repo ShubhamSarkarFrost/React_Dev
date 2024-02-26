@@ -1,30 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="React_Dev_REACT_Demo_Project_Completed_02_03_2024_22:57_PM_IST">
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/public/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/assets/denim-pioneer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/assets/dream-gown.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/assets/merlot-suit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/assets/mocha-overcoat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/assets/moonlight-dress.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/assets/rain-jacket.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/components/Cart.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/components/CartModal.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/components/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/components/Product.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/components/Shop.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/dummy-products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/store/shopping-cart-context.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/vite.config.js" afterDir="false" />
+    <list default="true" id="fd42a3c7-b4ed-42a9-9412-3695a351a194" name="Default Changelist" comment="React_Dev_REACT_Demo_Project_2_Updated_30_01_2024_10:59_PM_IST">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/components/Cart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/components/Cart.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/components/CartModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/components/CartModal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/components/Product.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/components/Product.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/components/Shop.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/components/Shop.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/dummy-products.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/dummy-products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/store/shopping-cart-context.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/src/store/shopping-cart-context.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/React_Context_Reducer_API_Use_Reducer/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
