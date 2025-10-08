@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap');
+:root{
+--accent: #A0C878; /* replaces blue per request */
+--bg-weak: #FFFDF6; /* replaces white-positive */
+--card: #ffffff;
+--text: #111;
+}
+*{box-sizing:border-box}
+html,body,#root{height:100%;}
+body{
+margin:0;
+font-family:'DynaPuff',sans-serif;
+background:linear-gradient(180deg,#fbfcfd 0%, #f7f8f9 100%);
+color:var(--text);
+}
+.app{
+max-width:1100px;
+margin:36px auto;
+padding:18px;
+}
+.header-wrap{display:flex;align-items:center;gap:28px;margin-bottom:18px}
+.header-title{font-size:40px;font-weight:700}
+.header-sub{color:#5b6570}
+
+
+.main-panel{display:flex;gap:28px;align-items:center}
+.left-illustration{flex:1;display:flex;align-items:center;justify-content:center}
+.left-illustration img{max-width:100%;border-radius:12px;box-shadow:0 4px 16px rgba(0,0,0,0.1)}
+.right-panel{flex:1.2;background:var(--card);border-radius:14px;padding:22px;box-shadow:0 6px 20px rgba(16,24,40,0.08)}
+
+.toggle{display:flex;align-items:center;gap:8px}
+.toggle input{display:none}
+.toggle .track{width:46px;height:26px;border-radius:16px;background:#e7ece0;position:relative;cursor:pointer}
+.toggle .thumb{position:absolute;top:3px;left:3px;width:20px;height:20px;border-radius:50%;background:white;box-shadow:0 2px 6px rgba(0,0,0,0.12);transition:left .18s}
+.toggle input:checked + .track{background:var(--accent)}
+.toggle input:checked + .track .thumb{left:23px}
+
+
+.refresh-btn{border-radius:24px;padding:8px 14px;border:2px solid #222;background:white;cursor:pointer}
+.copy-big{display:block;margin:22px auto;padding:14px 36px;border-radius:12px;background:var(--accent);color:white;font-weight:700;border:none;cursor:pointer}
+
+
+.strength-pill{display:inline-block;padding:6px 10px;border-radius:999px;background:#e7f7df;color:#0f3d16;font-weight:700;margin-left:12px}
+
+
+.password-box{border:2px solid var(--accent);background:var(--bg-weak);border-radius:10px;padding:18px;display:flex;align-items:center;justify-content:space-between;gap:12px}
+.password-text{font-size:24px;font-weight:700;color:#0b2a19}
+.refresh-btn{border-radius:24px;padding:8px 14px;border:2px solid #222;background:white;cursor:pointer}
+.copy-btn{background:#ffeb3b;border-radius:24px;padding:10px 18px;border:2px solid #333;cursor:pointer}
+
+.controls{margin-top:18px}
+.controls-row{display:flex;align-items:center;gap:12px;margin-top:14px}
+.label{min-width:120px}
+.slider-row{display:flex;align-items:center;gap:12px}
+.input-number{width:56px;padding:8px;border-radius:8px;border:1px solid #ddd;text-align:center}
+.range{flex:1}

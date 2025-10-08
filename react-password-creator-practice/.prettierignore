@@ -1,0 +1,31 @@
+# Build and dependency folders
+node_modules/
+dist/
+build/
+coverage/
+
+
+# Logs and environment files
+*.log
+.env
+
+
+# Editor / OS files
+.DS_Store
+.idea/
+.vscode/
+
+
+# Output files and caches
+*.cache
+*.out
+
+
+# Public assets
+public/
+
+
+# Reports or temporary generated files
+*.html
+*.csv
+*.zip
