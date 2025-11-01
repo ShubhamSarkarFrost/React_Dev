@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+:root{
+  --primary: #DC143C; /* replaces blue */
+  --highlight: #F75270; /* replaces light blue highlight */
+}
+
+*{box-sizing:border-box}
+body,html,#root{height:100%}
+.app-root{
+  font-family: 'Poppins', sans-serif;
+  padding:28px;
+  background:#f4f6f8;
+  color:#222;
+  min-height:100vh;
+}
+.container{
+  display:flex;
+  gap:24px;
+  max-width:1200px;
+  margin:0 auto;
+}
+.card{
+  background:#fff;
+  border-radius:8px;
+  box-shadow:0 2px 6px rgba(10,10,10,0.05);
+  overflow:hidden;
+  flex:1;
+}
+.header{
+  background-color: #ffcccc; /* light red */
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+.header .title{font-family: 'Poppins', sans-serif;font-weight:700;font-size:20px}
+.icon{width:44px;height:44px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,0.12);border-radius:8px}
+.content{padding:22px 26px}
+.tabs{display:flex;gap:8px;margin-bottom:18px}
+.tab{padding:8px 12px;border-radius:6px;border:1px solid #d6d6d6;cursor:pointer;font-weight:600}
+.tab.active{background:#fff;border-color:var(--primary);color:var(--primary);box-shadow:0 2px 8px rgba(220,20,60,0.06)}
+.fields{display:flex;gap:40px;align-items:flex-start}
+.field-group{flex:1}
+.field-row{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+.label{min-width:80px;font-weight:600;color:#333}
+.small-input, select{width:60px;padding:6px 8px;border-radius:6px;border:1px solid #cfcfcf;font-weight:600;text-align:center;background:#fbfcfd}
+.buttons{display:flex;gap:12px;margin-top:16px}
+.btn{padding:10px 16px;border-radius:24px;border:2px solid var(--primary);background:transparent;color:var(--primary);cursor:pointer;font-weight:700}
+.btn.reset{border-color:#d0d0d0;color:#333}
+.right-header{background:var(--primary);color:white;padding:20px 24px;text-align:center}
+.bmi-value{font-size:28px;font-weight:800;margin-top:6px}
+.table{width:100%;border-collapse:collapse}
+.table td, .table th{padding:14px 18px;border-bottom:1px solid #eee}
+.table .row-label{width:40%}
+.table .highlight{background:var(--highlight);color:white;font-weight:700}
+.view-link{display:inline-block;margin-top:12px;color:var(--primary);font-weight:600}
+@media (max-width:900px){.container{flex-direction:column}}
